@@ -1,6 +1,10 @@
 # Hi, I'm Pranav 👋
 
-Engineering student at the University of Michigan. I build at the intersection of **reinforcement learning, robotics and autonomous AI agents**, and I care about measuring things honestly: held-out seeds, confidence intervals, pre-registered experiments, and safety limits that don't depend on the AI behaving.
+CS student at the University of Michigan and AI researcher. I build at the intersection of **reinforcement learning, robotics and autonomous AI agents**, and I care about measuring things honestly: held-out seeds, confidence intervals, pre-registered experiments, and safety limits that don't depend on the AI behaving.
+
+## Research
+
+- **[MAPO: Momentum-Aided Gradient Descent Prompt Optimization](https://arxiv.org/abs/2410.19499)** (NAACL 2025), with Anthony Cui and Kevin Zhu.
 
 ## What I'm building
 
@@ -16,3 +20,7 @@ Earlier: [Parkinson's detection from DaTscan images](https://github.com/pranavna
 ## Tools I use
 
 Python · MuJoCo · Gymnasium · Stable-Baselines3 · scikit-learn · Claude Code & Agent SDK · MCP · Docker · TypeScript · Jac
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/pranav-nandyalam)
