@@ -19,7 +19,11 @@ Earlier: [Parkinson's detection from DaTscan images](https://github.com/pranavna
 
 ## Tools I use
 
-Python · MuJoCo · Gymnasium · Stable-Baselines3 · scikit-learn · Claude Code & Agent SDK · MCP · Docker · TypeScript · Jac
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,docker,githubactions,linux,bash,ts,nextjs,electron,flask,java,arduino" alt="Python, scikit-learn, OpenCV, Docker, GitHub Actions, Linux, Bash, TypeScript, Next.js, Electron, Flask, Java, Arduino" />
+</p>
+
+Also: MuJoCo · Gymnasium · Stable-Baselines3 · ONNX · Claude Code & Agent SDK · MCP · Jac
 
 ## Contact
 
