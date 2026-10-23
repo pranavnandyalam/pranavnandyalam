@@ -4,7 +4,7 @@ CS student at the University of Michigan and AI researcher. I build at the inter
 
 ## Research
 
-- **[MAPO: Momentum-Aided Gradient Descent Prompt Optimization](https://arxiv.org/abs/2410.19499)** (NAACL 2025), with Anthony Cui and Kevin Zhu.
+- **[MAPO: Momentum-Aided Gradient Descent Prompt Optimization](https://arxiv.org/abs/2410.19499)** (NAACL 2025 Student Research Workshop), second author with Anthony Cui, Kevin Zhu, Sean O'Brien and others.
 
 ## What I'm building
 
